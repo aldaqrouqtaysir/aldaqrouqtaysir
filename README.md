@@ -1,7 +1,6 @@
 # Taysir Al Daqrouq
 
-I'm a Computer Science student at United Arab Emirates University. I'm interested in AI and machine learning, especially research and engineering. I'm also interested in data engineering, data science, and software engineering.
-
+I'm a Computer Science student at United Arab Emirates University. I'm interested in AI and machine learning, especially research and engineering.
 My goal is to build systems that solve real problems and improve people's lives.
 
 ## Selected work
